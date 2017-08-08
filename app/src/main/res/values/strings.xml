@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpiderProjectPrototype</string>
+
+    <string-array name="who">
+        <item>Who </item>
+        <item>"Director"</item>
+        <item>"producer"</item>
+        <item>"Actor"</item>
+        <item>"Actress"</item>
+    </string-array>
+</resources>
